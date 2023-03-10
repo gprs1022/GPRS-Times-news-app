@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "267920169508",
+    "project_id": "gprs-times",
+    "storage_bucket": "gprs-times.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267920169508:android:56d0d2a8662f76121d56b1",
+        "android_client_info": {
+          "package_name": "com.example.gprstimes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267920169508-meh422q1knm9o9vo94ds5s5n9vb3tn85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATXi4e52mRuSb-zILNvvHcDEsuXtWDE4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267920169508-meh422q1knm9o9vo94ds5s5n9vb3tn85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
